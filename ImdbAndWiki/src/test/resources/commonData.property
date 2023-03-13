@@ -1,0 +1,4 @@
+browser chrome
+url https://www.imdb.com/
+timeout 10
+wikiUrl https://en.wikipedia.org/wiki/Main_Page

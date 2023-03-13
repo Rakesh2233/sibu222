@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-12T11:58:51 IST" name="Default suite" finished-at="2023-03-12T11:59:01 IST" duration-ms="9978">
+    <groups>
+    </groups>
+    <test started-at="2023-03-12T11:58:51 IST" name="Default test" finished-at="2023-03-12T11:59:01 IST" duration-ms="9978">
+      <class name="org.wiki.home.WikiTest">
+        <test-method is-config="true" signature="setUpSuite()[pri:0, instance:org.wiki.home.WikiTest@1583741e]" started-at="2023-03-12T11:58:50 IST" name="setUpSuite" finished-at="2023-03-12T11:58:51 IST" duration-ms="1302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpSuite -->
+        <test-method signature="wikiTest()[pri:0, instance:org.wiki.home.WikiTest@1583741e]" started-at="2023-03-12T11:58:51 IST" name="wikiTest" finished-at="2023-03-12T11:59:01 IST" duration-ms="9703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikiTest -->
+      </class> <!-- org.wiki.home.WikiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
